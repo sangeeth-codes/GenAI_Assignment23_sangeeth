@@ -1,0 +1,23 @@
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Python virtual environments
+.venv/
+venv/
+env/
+include/
+lib/
+share/
+pyvenv.cfg
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
